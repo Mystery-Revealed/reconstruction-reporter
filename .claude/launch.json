@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "reconstruction-reporter",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["server/src/index.js"],
+      "port": 4721
+    }
+  ]
+}
